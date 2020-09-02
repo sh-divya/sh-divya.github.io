@@ -7,9 +7,7 @@ Hi, I am a 2nd Year PhD Student at Johns Hopkins University, working under [Prof
 Sept 2019 | Started PhD at JHU
 Aug 2019 | Finished MS in Chemical Engineering
 Sept 2017 | Started Masters program at Cornell University
-Aug 2017 | Graduated from IIT Bombay with B. Tech in CHemical Engineering
-
-* * *
+Aug 2017 | Graduated from IIT Bombay with B. Tech in Chemical Engineering
 
 ## You should checkout
 
