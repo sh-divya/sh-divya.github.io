@@ -9,4 +9,8 @@ Aug 2019 | Finished MS in Chemical Engineering
 Sept 2017 | Started Masters program at Cornell University
 Aug 2017 | Graduated from IIT Bombay with B. Tech in CHemical Engineering
 
+* * *
+
 ## You should checkout
+
+* * *
