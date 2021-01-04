@@ -13,4 +13,6 @@ Aug 2017 | Graduated from IIT Bombay with B. Tech in Chemical Engineering
 
 ## You should checkout
 
+* Simple recreation of this [Trust Game](https://ncase.me/trust/) using Python: [GitHub Repo](https://github.com/sh-divya/Trust_Game)
+
 * * *
