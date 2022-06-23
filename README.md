@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I am a 3rd Year PhD Student at Johns Hopkins University, working under [Prof. Paulette Clancy](https://clancygroup.wse.jhu.edu/). I am currently working on a Crystal Strcture Prediction task using deep learning and graph representation learning; and a first principles investigation into the properties of a corrsions and fatigue resistant novel film on maritime metal alloys
+Hi, I am a 3rd Year PhD Student at Johns Hopkins University, working under [Prof. Paulette Clancy](https://clancygroup.wse.jhu.edu/). I am currently working on a Crystal Strcture Prediction task using deep learning and graph representation learning; and a first principles investigation into the properties of a corrosion and fatigue resistant novel film on maritime metal alloys
 
 ## Updates
 
@@ -10,6 +10,8 @@ Sept 2019 | Started PhD at JHU
 Aug 2019 | Finished MS in Chemical Engineering
 Sept 2017 | Started Masters program at Cornell University
 Aug 2017 | Graduated from IIT Bombay with B. Tech in Chemical Engineering
+November 2020 | Poster presentation at AIChE Annual Conference
+May 2022 | Poster Presentation at MRS Spring 2022
 
 ## You should checkout
 
