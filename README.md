@@ -10,7 +10,7 @@ Sept 2019 | Started PhD at JHU
 Aug 2019 | Finished MS in Chemical Engineering
 Sept 2017 | Started Masters program at Cornell University
 Aug 2017 | Graduated from IIT Bombay with B. Tech in Chemical Engineering
-November 2020 | Poster presentation at AIChE Annual Conference
+Nov 2020 | Poster presentation at AIChE Annual Conference
 May 2022 | Poster Presentation at MRS Spring 2022
 
 ## You should checkout
