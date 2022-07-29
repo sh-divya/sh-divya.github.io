@@ -19,5 +19,6 @@ May 2022 | Poster Presentation at MRS Spring 2022
 * Trained a [crystal graph convolutional neural network](https://arxiv.org/abs/1710.10324) to conduct screening for promising HOIP candidates: [GitHub Repo](https://github.com/sh-divya/cgcnn_hoip)
 * Simple recreation of this [Trust Game](https://ncase.me/trust/) using Python: [GitHub Repo](https://github.com/sh-divya/Trust_Game)
 * A simple Tic Tac Toe Game written using Python: [Github Repo](https://github.com/sh-divya/Tic_Tac_Toe)
+* Currently working on a rock-paper-scissors game that uses a pre-trained hand-tracking model and a CNN classifier that I trained: [Github Repo](https://github.com/sh-divya/boulder_parchment_shears)
 
 * * *
